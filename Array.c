@@ -7,5 +7,10 @@ int main()
     {
         scanf("%d", &numbers[i]);
     }
+    printf("Elements of the array are: ");
+    for (int i = 0; i < 5; ++i) 
+    {
+        printf("%d ", numbers[i]);
+    }
     return 0;
 }
