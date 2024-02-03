@@ -1,9 +1,10 @@
 #include <stdio.h>
-int main() {
-    int inputValue;
+int main() 
+{
+    int Value,square;
     printf("Enter a number: ");
     scanf("%d", &inputValue);
-    int square = inputValue * inputValue;
-    printf("The square of %d is: %d\n", inputValue, square);
+    square = inputValue * inputValue;
+    printf("The square of %d is: %d\n",Value, square);
     return 0;
 }
