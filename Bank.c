@@ -16,4 +16,4 @@ printf("\n***Create new Account***");
 printf("\nEnter new account number:");
 printf("\nEnter initial amount to ber deposited: 22500");
 printf("\nAmount Has been added successfully");
-
+}
